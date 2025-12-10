@@ -1,0 +1,12 @@
+{
+    "cmake.configureSettings": {
+        "CMAKE_PREFIX_PATH": "/opt/Qt/5.15.17/gcc_64"
+    },
+    "C_Cpp.errorSquiggles": "disabled",
+    "files.associations": {
+        "*.log": "log",
+        "qtwidgets": "cpp",
+        "qpushbutton": "cpp",
+        "qapplication": "cpp"
+    }
+}
